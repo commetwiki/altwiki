@@ -1,1 +1,1 @@
-# altwiki
+# Commet wiki
