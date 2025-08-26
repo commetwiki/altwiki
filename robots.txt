@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://commetwiki.github.io/sitemap.xml
+Sitemap: https://commetwiki.github.io/altwiki/sitemap.xml
